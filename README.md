@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sulaimanhasanevan
+- 👀 I’m interested in Programming language and software development
+- 🌱 I’m currently learning C/C++
