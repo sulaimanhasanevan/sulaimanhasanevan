@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sulaimanhasanevan
 - 👀 I’m interested in Programming language and software development
-- 🌱 I’m currently learning C/C++ </br>
+- 🌱 I’m currently learning Javascript/Python/Django?ReactJS/php </br>
 - Author : Sulaiman Hasan Evan
