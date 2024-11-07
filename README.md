@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @sulaimanhasanevan
 - 👀 I’m interested in Programming language and software development
-- 🌱 I’m currently learning Javascript/Python/Django?ReactJS/php </br>
+- ✔️ I’ve completed HTML, CSS, JavaScript, PHP, MySQL, and Theme Development  
+- 🌱 I’m currently learning ReactJs, NextJs </br>
 - Author : Sulaiman Hasan Evan
